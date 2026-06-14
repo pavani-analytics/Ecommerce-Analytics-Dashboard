@@ -150,6 +150,7 @@ Performed SQL queries to analyze:
 * Total Orders
 * Total Customers
 * Total Sellers
+* Average Delivery Days
 * Payment Analysis
 * Sales Analysis
 * Product Category Analysis
